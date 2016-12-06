@@ -1,0 +1,48 @@
+/* font-family: "Alegreya-Black"; */
+@font-face {
+	font-family: "Alegreya-Black";
+	src: url("../fonts/Alegreya-Black.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Alegreya-BlackItalic"; */
+@font-face {
+	font-family: "Alegreya-BlackItalic";
+	src: url("../fonts/Alegreya-BlackItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Alegreya-Bold"; */
+@font-face {
+	font-family: "Alegreya-Bold";
+	src: url("../fonts/Alegreya-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Alegreya-BoldItalic"; */
+@font-face {
+	font-family: "Alegreya-BoldItalic";
+	src: url("../fonts/Alegreya-BoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Alegreya-Italic"; */
+@font-face {
+	font-family: "Alegreya-Italic";
+	src: url("../fonts/Alegreya-Italic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Alegreya-Regular"; */
+@font-face {
+	font-family: "Alegreya-Regular";
+	src: url("../fonts/Alegreya-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "PlayfairDisplay-Black";
+	src: url("../fonts/PlayfairDisplay-Black.otf") format("opentype");
+	font-style: normal;
+	font-weight: normal;
+}
